@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Comfortaa;
+  src: url("./assets/Comfortaa-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url("./assets/Comfortaa-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url("./assets/Comfortaa-Bold.ttf");
+  font-weight: 700;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: var(--color-white);
+  font-family: Comfortaa;
+}
